@@ -1457,6 +1457,7 @@ ul {
 
 .form-group.full {
     grid-column: 1 / -1;
+    
 }
 
 .form-label {
@@ -1467,9 +1468,10 @@ ul {
 }
 
 .form-input {
-    padding: 12px 8px;
+    max-width: 450px;
+    padding: 12px 12px;
     border-radius: 10px;
-    border: 1.5px solid rgba(184, 134, 11, 0.2);
+    border: 1.5px solid rgba(63, 46, 4, 0.322);
     background: var(--Branco);
     font-family: var(--font-body);
     font-size: 14px;
