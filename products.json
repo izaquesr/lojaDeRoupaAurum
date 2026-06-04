@@ -1,0 +1,352 @@
+{
+    "store": {
+        "name": "AURUM",
+        "tagline": "Moda Premium",
+        "whatsapp": "5511999999999",
+        "instagram": "@aurum.store",
+        "categories": [
+            "Todos",
+            "Camisetas",
+            "Calças",
+            "Vestidos",
+            "Jaquetas",
+            "Acessórios"
+        ]
+    },
+    "products": [
+        {
+            "id": 1,
+            "name": "Camiseta Signature Gold",
+            "category": "Camisetas",
+            "price": 189.90,
+            "originalPrice": 249.90,
+            "description": "Camiseta premium confeccionada em algodão Pima 100%, com caimento perfeito e acabamento refinado. Detalhe bordado exclusivo na manga.",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80",
+                "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&q=80",
+                "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=600&q=80",
+                "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Branco",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Dourado",
+                    "hex": "#B8860B"
+                },
+                {
+                    "name": "Cinza",
+                    "hex": "#888888"
+                }
+            ],
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "GG"
+            ],
+            "badge": "MAIS VENDIDO",
+            "rating": 4.9,
+            "reviews": 234
+        },
+        {
+            "id": 2,
+            "name": "Calça Alfaiate Premium",
+            "category": "Calças",
+            "price": 349.90,
+            "originalPrice": 499.90,
+            "description": "Calça de alfaiataria com tecido misto de lã e elastano. Modelagem slim fit que valoriza a silhueta com conforto excepcional.",
+            "images": [
+                "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80",
+                "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&q=80",
+                "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80",
+                "https://images.unsplash.com/photo-1551854838-212c50b4c184?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Cinza Chumbo",
+                    "hex": "#4A4A4A"
+                },
+                {
+                    "name": "Marinho",
+                    "hex": "#1B2A4A"
+                },
+                {
+                    "name": "Caramelo",
+                    "hex": "#C68B3E"
+                }
+            ],
+            "sizes": [
+                "36",
+                "38",
+                "40",
+                "42",
+                "44",
+                "46"
+            ],
+            "badge": "NOVO",
+            "rating": 4.8,
+            "reviews": 89
+        },
+        {
+            "id": 3,
+            "name": "Vestido Soirée",
+            "category": "Vestidos",
+            "price": 589.90,
+            "originalPrice": 789.90,
+            "description": "Vestido longo com tecido de crepe italiano e detalhes em renda francesa. Ideal para ocasiões especiais e eventos formais.",
+            "images": [
+                "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&q=80",
+                "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=600&q=80",
+                "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&q=80",
+                "https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Vinho",
+                    "hex": "#722F37"
+                },
+                {
+                    "name": "Nude",
+                    "hex": "#D4A89A"
+                },
+                {
+                    "name": "Dourado",
+                    "hex": "#B8860B"
+                }
+            ],
+            "sizes": [
+                "PP",
+                "P",
+                "M",
+                "G",
+                "GG"
+            ],
+            "badge": "EXCLUSIVO",
+            "rating": 5.0,
+            "reviews": 156
+        },
+        {
+            "id": 4,
+            "name": "Jaqueta Couro Premium",
+            "category": "Jaquetas",
+            "price": 899.90,
+            "originalPrice": 1299.90,
+            "description": "Jaqueta em couro legítimo bovino com forro em seda. Zíperes YKK dourados e acabamento artesanal. Peça que dura décadas.",
+            "images": [
+                "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&q=80",
+                "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=600&q=80",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&q=80",
+                "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Marrom",
+                    "hex": "#5C3A1E"
+                },
+                {
+                    "name": "Caramelo",
+                    "hex": "#C68B3E"
+                }
+            ],
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "GG"
+            ],
+            "badge": "PREMIUM",
+            "rating": 4.9,
+            "reviews": 312
+        },
+        {
+            "id": 5,
+            "name": "Polo Club Edition",
+            "category": "Camisetas",
+            "price": 229.90,
+            "originalPrice": 299.90,
+            "description": "Polo confeccionada em piquet egípcio de alta qualidade. Bordado exclusivo da coleção Club Edition no peito.",
+            "images": [
+                "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&q=80",
+                "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&q=80",
+                "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=600&q=80",
+                "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Branco",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "Marinho",
+                    "hex": "#1B2A4A"
+                },
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Verde",
+                    "hex": "#1A5C3A"
+                },
+                {
+                    "name": "Vermelho",
+                    "hex": "#8B1A1A"
+                }
+            ],
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "GG",
+                "XGG"
+            ],
+            "badge": "",
+            "rating": 4.7,
+            "reviews": 178
+        },
+        {
+            "id": 6,
+            "name": "Blazer Estruturado",
+            "category": "Jaquetas",
+            "price": 549.90,
+            "originalPrice": 749.90,
+            "description": "Blazer com estrutura impecável em tecido italiano com fio de lã merino. Forração interna em viscose e botões de chifre natural.",
+            "images": [
+                "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+                "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=600&q=80",
+                "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&q=80",
+                "https://images.unsplash.com/photo-1594938298603-c8148c4b4f5b?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Cinza Chumbo",
+                    "hex": "#4A4A4A"
+                },
+                {
+                    "name": "Marinho",
+                    "hex": "#1B2A4A"
+                },
+                {
+                    "name": "Bege",
+                    "hex": "#C8B89A"
+                }
+            ],
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "GG"
+            ],
+            "badge": "COLEÇÃO",
+            "rating": 4.8,
+            "reviews": 203
+        },
+        {
+            "id": 7,
+            "name": "Vestido Midi Floral",
+            "category": "Vestidos",
+            "price": 389.90,
+            "originalPrice": 489.90,
+            "description": "Vestido midi com estampa floral exclusiva em tecido de chiffon com forro. Perfeito para eventos diurnos e jantares românticos.",
+            "images": [
+                "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=600&q=80",
+                "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&q=80",
+                "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=600&q=80",
+                "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Rosa",
+                    "hex": "#E8A0BF"
+                },
+                {
+                    "name": "Azul",
+                    "hex": "#4A7FB5"
+                },
+                {
+                    "name": "Verde",
+                    "hex": "#4A8C6A"
+                },
+                {
+                    "name": "Lavanda",
+                    "hex": "#967BB6"
+                }
+            ],
+            "sizes": [
+                "PP",
+                "P",
+                "M",
+                "G",
+                "GG"
+            ],
+            "badge": "LANÇAMENTO",
+            "rating": 4.9,
+            "reviews": 67
+        },
+        {
+            "id": 8,
+            "name": "Calça Jogger Luxe",
+            "category": "Calças",
+            "price": 279.90,
+            "originalPrice": 379.90,
+            "description": "Jogger premium em moletom penteado com toque de seda. Elástico revestido e cordão em cetim. Conforto com elegância.",
+            "images": [
+                "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80",
+                "https://images.unsplash.com/photo-1594938298603-c8148c4b4f5b?w=600&q=80",
+                "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=600&q=80",
+                "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80"
+            ],
+            "colors": [
+                {
+                    "name": "Preto",
+                    "hex": "#111111"
+                },
+                {
+                    "name": "Cinza",
+                    "hex": "#888888"
+                },
+                {
+                    "name": "Marinho",
+                    "hex": "#1B2A4A"
+                },
+                {
+                    "name": "Vinho",
+                    "hex": "#722F37"
+                }
+            ],
+            "sizes": [
+                "P",
+                "M",
+                "G",
+                "GG",
+                "XGG"
+            ],
+            "badge": "",
+            "rating": 4.6,
+            "reviews": 145
+        }
+    ]
+}
